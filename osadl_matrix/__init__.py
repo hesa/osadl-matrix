@@ -1,8 +1,9 @@
 # SPDX-FileCopyrightText: 2021 Konrad Weihmann
-# SPDX-FileCopyrightText: 2022 Henrik Sandklef
+# SPDX-FileCopyrightText: 2023 Henrik Sandklef
 # SPDX-License-Identifier: Unlicensed
 
 import csv
+import json
 import os
 from enum import Enum, unique
 
@@ -43,12 +44,25 @@ def __read_db(customdb=None):
     """
     global __osadl_db
     if not __osadl_db:
-        with open(customdb or OSADL_MATRIX) as i:
-            _reader = csv.DictReader(i, delimiter=',', quotechar='"')
-            for row in _reader:
-                key = row['Compatibility*']
-                for k, v in row.items():
-                    __osadl_db[(key, k)] = OSADLCompatibility.from_text(v)
+        try:
+            with open(customdb or OSADL_MATRIX_JSON) as i:
+                __osadl_db = json.load(i)
+                # The below will raise KeyError if any of them are
+                # removed. Keep as is to make sure we detect when keys changes.
+                __osadl_db.pop('timestamp')
+                __osadl_db.pop('timeformat')
+        except json.JSONDecodeError:
+            if customdb:  # pragma: no cover
+                with open(customdb) as i:
+                    _reader = csv.DictReader(i, delimiter=',', quotechar='"')
+                    for row in _reader:
+                        key = row['Compatibility*']
+                        for k, v in row.items():
+                            if k == 'Compatibility*':
+                                continue
+                            if key not in __osadl_db:
+                                __osadl_db[key] = {}
+                            __osadl_db[key][k] = v
 
 
 def is_compatible(outbound, inbound, customdb=None):
@@ -62,7 +76,7 @@ def is_compatible(outbound, inbound, customdb=None):
         inbound (string): SPDX ID for an inbound license, e.g. the license used for a dependency of the application
 
     Returns:
-        [OSADLCompatibility]: True or False
+        True or False
 
     """
     return get_compatibility(outbound, inbound, customdb) == OSADLCompatibility.YES
@@ -82,7 +96,10 @@ def get_compatibility(outbound, inbound, customdb=None):
 
     """
     __read_db(customdb=customdb)
-    return __osadl_db.get((outbound, inbound), OSADLCompatibility.UNDEF)
+    try:
+        return OSADLCompatibility.from_text(__osadl_db.get(outbound).get(inbound))
+    except AttributeError:
+        return OSADLCompatibility.UNDEF
 
 
 def supported_licenses(customdb=None):
@@ -90,10 +107,4 @@ def supported_licenses(customdb=None):
     there is a known compatibility status).
     """
     __read_db(customdb=customdb)
-    licenses = set()
-    for row in __osadl_db:
-        key, k = row
-        if k == "Compatibility*":
-            continue
-        licenses.add(k)
-    return licenses
+    return __osadl_db.keys()
