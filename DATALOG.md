@@ -1,3 +1,1805 @@
+# Changes in 2024-05-22T02:17:00+00:00
+
+- GPL-1.0-or-later -> LGPL-2.1-or-later: changed from "Yes" to "Check dependency"
+- GPL-1.0-or-later -> LGPL-2.0-only: changed from "Yes" to "Check dependency"
+- GPL-1.0-or-later -> LGPL-2.1-only: changed from "Yes" to "Check dependency"
+- GPL-1.0-or-later -> LGPL-2.0-or-later: changed from "Yes" to "Check dependency"
+
+# Changes in 2024-05-21T02:14:00+00:00
+
+- Unicode-DFS-2016: got removed
+- MPL-2.0: got removed
+- Qhull: got removed
+- HPND: got removed
+- CDDL-1.1: got removed
+- Artistic-1.0-Perl: got removed
+- LGPL-2.0-or-later: got removed
+- IJG: got removed
+- EPL-1.0: got removed
+- blessing: got removed
+- ImageMagick: got removed
+- OLDAP-2.8: got removed
+- BSD-3-Clause: got removed
+- MS-PL: got removed
+- BSL-1.0: got removed
+- Apache-1.0: got removed
+- FSFULLRWD: got removed
+- CDDL-1.0: got removed
+- Apache-1.1: got removed
+- Unicode-DFS-2015: got removed
+- BSD-1-Clause: got removed
+- MIT: got removed
+- NTP: got removed
+- bzip2-1.0.6: got removed
+- LGPL-2.1-only: got removed
+- AFL-2.1: got removed
+- MPL-1.1: got removed
+- PostgreSQL: got removed
+- BSD-Source-Code: got removed
+- EPL-2.0: got removed
+- FTL: got removed
+- SGI-B-2.0: got removed
+- BSD-2-Clause-Patent: got removed
+- AGPL-3.0-or-later: got removed
+- Bitstream-Vera: got removed
+- ZPL-2.0: got removed
+- MIT-CMU: got removed
+- UPL-1.0: got removed
+- GPL-1.0-only: got removed
+- Unlicense: got removed
+- libpng-2.0: got removed
+- LicenseRef-scancode-info-zip-2003-05: got removed
+- BSD-4-Clause-UC: got removed
+- 0BSD: got removed
+- WTFPL: got removed
+- zlib-acknowledgement: got removed
+- GPL-3.0-or-later: got removed
+- BSD-3-Clause-Open-MPI: got removed
+- SSH-short: got removed
+- bzip2-1.0.5: got removed
+- Info-ZIP: got removed
+- OpenSSL: got removed
+- Python-2.0: got removed
+- EUPL-1.1: got removed
+- SMLNJ: got removed
+- ISC: got removed
+- MS-RL: got removed
+- X11: got removed
+- Artistic-1.0: got removed
+- GPL-1.0-or-later: got removed
+- libtiff: got removed
+- Apache-2.0: got removed
+- Saxpath: got removed
+- BSD-2-Clause: got removed
+- ICU: got removed
+- IBM-pibs: got removed
+- XFree86-1.1: got removed
+- GPL-2.0-only: got removed
+- NBPL-1.0: got removed
+- SSH-OpenSSH: got removed
+- LGPL-3.0-or-later: got removed
+- W3C: got removed
+- EUPL-1.2: got removed
+- LicenseRef-scancode-ppp: got removed
+- AFL-2.0: got removed
+- Zlib: got removed
+- MPL-2.0-no-copyleft-exception: got removed
+- LGPL-3.0-only: got removed
+- curl: got removed
+- Minpack: got removed
+- OSL-3.0: got removed
+- SunPro: got removed
+- CC-BY-2.5: got removed
+- ECL-2.0: got removed
+- NCSA: got removed
+- CC0-1.0: got removed
+- BSD-4-Clause: got removed
+- Sleepycat: got removed
+- LGPL-2.1-or-later: got removed
+- JasPer-2.0: got removed
+- GPL-3.0-only: got removed
+- GPL-2.0-or-later: got removed
+- IPL-1.0: got removed
+- Libpng: got removed
+- ECL-1.0: got removed
+- FSFULLR: got removed
+- CPL-1.0: got removed
+- W3C-19980720: got removed
+- MirOS: got removed
+- CC-BY-3.0: got removed
+- W3C-20150513: got removed
+- AFL-3.0: got removed
+- PHP-3.01: got removed
+- RSA-MD: got removed
+- AGPL-3.0-only: got removed
+- FSFAP: got removed
+- LGPL-2.0-only: got removed
+- FSFUL: got removed
+- EFL-2.0: got removed
+- Artistic-2.0: got removed
+- OSL-3.0 -> NCSA: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- MS-PL -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- EPL-2.0 -> HPND: changed from "Unknown" to "Yes"
+- EUPL-1.2 -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- CDDL-1.0 -> NCSA: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> W3C-19980720: changed from "Unknown" to "Yes"
+- MS-PL -> bzip2-1.0.5: changed from "Yes" to "Unknown"
+- GPL-3.0-or-later -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- MS-RL -> JasPer-2.0: changed from "Unknown" to "Yes"
+- OpenSSL -> MIT-CMU: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> bzip2-1.0.5: changed from "Yes" to "Unknown"
+- GPL-1.0-or-later -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> W3C-19980720: changed from "Unknown" to "Yes"
+- MS-RL -> 0BSD: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> NCSA: changed from "Unknown" to "Yes"
+- MPL-2.0 -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- MS-RL -> MirOS: changed from "Unknown" to "Yes"
+- OSL-3.0 -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> HPND: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> W3C: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> libtiff: changed from "Unknown" to "Yes"
+- MPL-2.0 -> bzip2-1.0.5: changed from "Yes" to "Unknown"
+- LGPL-3.0-only -> SunPro: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> MIT-CMU: changed from "Unknown" to "Yes"
+- MPL-1.1 -> bzip2-1.0.6: changed from "Yes" to "Unknown"
+- CPL-1.0 -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- EPL-2.0 -> MIT-CMU: changed from "Unknown" to "Yes"
+- MPL-2.0-no-copyleft-exception -> HPND: changed from "Unknown" to "Yes"
+- OpenSSL -> libtiff: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> SSH-short: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- MS-PL -> SunPro: changed from "Unknown" to "Yes"
+- EPL-1.0 -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> LicenseRef-scancode-info-zip-2003-05: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> LicenseRef-scancode-info-zip-2003-05: changed from "Unknown" to "Yes"
+- OSL-3.0 -> bzip2-1.0.6: changed from "Yes" to "Unknown"
+- AGPL-3.0-or-later -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> NCSA: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> PostgreSQL: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> XFree86-1.1: changed from "No" to "Yes"
+- MPL-2.0-no-copyleft-exception -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- CDDL-1.0 -> 0BSD: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> libpng-2.0: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> JasPer-2.0: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> W3C-20150513: changed from "Unknown" to "Yes"
+- MS-RL -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> SunPro: changed from "Unknown" to "Yes"
+- OpenSSL -> libpng-2.0: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> 0BSD: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> libtiff: changed from "Unknown" to "Yes"
+- Sleepycat -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- Sleepycat -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- MPL-2.0 -> HPND: changed from "Unknown" to "Yes"
+- MS-PL -> 0BSD: changed from "Unknown" to "Yes"
+- MPL-2.0 -> bzip2-1.0.6: changed from "Yes" to "Unknown"
+- GPL-3.0-only -> HPND: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> PHP-3.01: changed from "Unknown" to "No"
+- EPL-2.0 -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> SSH-short: changed from "Unknown" to "Yes"
+- MS-RL -> bzip2-1.0.6: changed from "Yes" to "Unknown"
+- LGPL-2.0-or-later -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- CPL-1.0 -> bzip2-1.0.6: changed from "Yes" to "Unknown"
+- CPL-1.0 -> NCSA: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> Minpack: changed from "Unknown" to "No"
+- MS-PL -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> LicenseRef-scancode-info-zip-2003-05: changed from "Unknown" to "Yes"
+- CPL-1.0 -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> MirOS: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> libpng-2.0: changed from "Unknown" to "Yes"
+- Sleepycat -> SSH-short: changed from "Unknown" to "Yes"
+- Sleepycat -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> libpng-2.0: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- OSL-3.0 -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> libpng-2.0: changed from "Unknown" to "Yes"
+- EUPL-1.1 -> JasPer-2.0: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> JasPer-2.0: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> W3C-20150513: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> JasPer-2.0: changed from "Unknown" to "Yes"
+- MPL-2.0-no-copyleft-exception -> SSH-short: changed from "Unknown" to "Yes"
+- EPL-2.0 -> JasPer-2.0: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- OSL-3.0 -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- MPL-1.1 -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> MirOS: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> ECL-2.0: changed from "Unknown" to "No"
+- GPL-1.0-only -> ECL-2.0: changed from "Unknown" to "No"
+- MPL-1.1 -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> Minpack: changed from "Unknown" to "No"
+- LGPL-2.1-only -> ECL-2.0: changed from "Unknown" to "No"
+- CDDL-1.1 -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> SSH-short: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> MIT-CMU: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> IJG: changed from "No" to "Yes"
+- CPL-1.0 -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- EPL-1.0 -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> MirOS: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> HPND: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> Minpack: changed from "Unknown" to "No"
+- GPL-2.0-or-later -> SSH-short: changed from "Unknown" to "Yes"
+- EPL-1.0 -> bzip2-1.0.5: changed from "Yes" to "Unknown"
+- OpenSSL -> SSH-short: changed from "Unknown" to "Yes"
+- MPL-2.0 -> NCSA: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> MIT-CMU: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- EPL-2.0 -> bzip2-1.0.6: changed from "Yes" to "Unknown"
+- GPL-1.0-only -> libtiff: changed from "Unknown" to "Yes"
+- OpenSSL -> HPND: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> MirOS: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> W3C-20150513: changed from "Unknown" to "Yes"
+- MPL-1.1 -> NCSA: changed from "Unknown" to "Yes"
+- EUPL-1.2 -> JasPer-2.0: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> HPND: changed from "Unknown" to "Yes"
+- MS-PL -> MirOS: changed from "Unknown" to "Yes"
+- EUPL-1.1 -> bzip2-1.0.5: changed from "Yes" to "Unknown"
+- AGPL-3.0-only -> Minpack: changed from "Unknown" to "No"
+- GPL-2.0-or-later -> MirOS: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> PHP-3.01: changed from "Unknown" to "No"
+- OpenSSL -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- Sleepycat -> bzip2-1.0.5: changed from "Yes" to "Unknown"
+- GPL-2.0-only -> Sleepycat: changed from "Yes" to "No"
+- MPL-2.0-no-copyleft-exception -> MIT-CMU: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> MirOS: changed from "Unknown" to "Yes"
+- EUPL-1.1 -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> libtiff: changed from "Unknown" to "Yes"
+- CDDL-1.0 -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> XFree86-1.1: changed from "No" to "Yes"
+- Sleepycat -> JasPer-2.0: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> Minpack: changed from "Unknown" to "No"
+- GPL-1.0-only -> MIT-CMU: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> PHP-3.01: changed from "Unknown" to "No"
+- LGPL-3.0-only -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- EPL-2.0 -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- EUPL-1.1 -> bzip2-1.0.6: changed from "Yes" to "Unknown"
+- EUPL-1.1 -> SSH-short: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> WITH: changed from "Unknown" to "No"
+- CPL-1.0 -> MirOS: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> W3C: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- MPL-1.1 -> libtiff: changed from "Unknown" to "Yes"
+- MPL-2.0-no-copyleft-exception -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- Sleepycat -> bzip2-1.0.6: changed from "Yes" to "Unknown"
+- EPL-2.0 -> 0BSD: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> IJG: changed from "No" to "Yes"
+- MPL-1.1 -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> W3C-19980720: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> IJG: changed from "No" to "Yes"
+- MS-PL -> HPND: changed from "Unknown" to "Yes"
+- EUPL-1.2 -> 0BSD: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> MirOS: changed from "Unknown" to "Yes"
+- MPL-2.0-no-copyleft-exception -> SunPro: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> PostgreSQL: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- Sleepycat -> NCSA: changed from "Unknown" to "Yes"
+- MPL-2.0-no-copyleft-exception -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> 0BSD: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> PostgreSQL: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> SunPro: changed from "Unknown" to "Yes"
+- IPL-1.0 -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> IJG: changed from "No" to "Yes"
+- EUPL-1.2 -> libpng-2.0: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- OpenSSL -> 0BSD: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- Sleepycat -> libtiff: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> PHP-3.01: changed from "Unknown" to "No"
+- LGPL-2.1-or-later -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- CPL-1.0 -> JasPer-2.0: changed from "Unknown" to "Yes"
+- MPL-2.0 -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> SSH-short: changed from "Unknown" to "Yes"
+- EPL-1.0 -> HPND: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> NCSA: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> JasPer-2.0: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> PostgreSQL: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> ECL-2.0: changed from "Unknown" to "Yes"
+- MS-PL -> libtiff: changed from "Unknown" to "Yes"
+- EUPL-1.2 -> MirOS: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> MirOS: changed from "Unknown" to "Yes"
+- MS-PL -> SSH-short: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> MirOS: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> IJG: changed from "No" to "Yes"
+- Sleepycat -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> IJG: changed from "No" to "Yes"
+- LGPL-2.0-only -> Minpack: changed from "Unknown" to "No"
+- LGPL-3.0-or-later -> libtiff: changed from "Unknown" to "Yes"
+- EPL-1.0 -> libtiff: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> Minpack: changed from "Unknown" to "No"
+- LGPL-2.0-or-later -> JasPer-2.0: changed from "Unknown" to "Yes"
+- EPL-1.0 -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- MPL-2.0-no-copyleft-exception -> bzip2-1.0.6: changed from "Yes" to "Unknown"
+- GPL-3.0-or-later -> 0BSD: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> HPND: changed from "Unknown" to "Yes"
+- MPL-2.0 -> libtiff: changed from "Unknown" to "Yes"
+- EUPL-1.1 -> NCSA: changed from "Unknown" to "Yes"
+- MPL-1.1 -> MIT-CMU: changed from "Unknown" to "Yes"
+- CDDL-1.0 -> bzip2-1.0.6: changed from "Yes" to "Unknown"
+- GPL-2.0-or-later -> PostgreSQL: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> 0BSD: changed from "Unknown" to "Yes"
+- EPL-2.0 -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- EPL-2.0 -> SSH-short: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> NCSA: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> HPND: changed from "Unknown" to "Yes"
+- OSL-3.0 -> 0BSD: changed from "Unknown" to "Yes"
+- EPL-1.0 -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> LicenseRef-scancode-info-zip-2003-05: changed from "Unknown" to "Yes"
+- MS-PL -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- EUPL-1.2 -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- MPL-1.1 -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> PHP-3.01: changed from "Unknown" to "No"
+- GPL-2.0-only -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> bzip2-1.0.6: changed from "Yes" to "Unknown"
+- GPL-3.0-or-later -> SSH-short: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> W3C: changed from "Unknown" to "Yes"
+- OSL-3.0 -> MirOS: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> NCSA: changed from "Unknown" to "Yes"
+- EUPL-1.1 -> SunPro: changed from "Unknown" to "Yes"
+- OpenSSL -> SunPro: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> PostgreSQL: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> ECL-2.0: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> Minpack: changed from "Unknown" to "No"
+- IPL-1.0 -> libtiff: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> PostgreSQL: changed from "Unknown" to "Yes"
+- CDDL-1.0 -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- MS-RL -> SunPro: changed from "Unknown" to "Yes"
+- CDDL-1.0 -> bzip2-1.0.5: changed from "Yes" to "Unknown"
+- LGPL-2.0-or-later -> NCSA: changed from "Unknown" to "Yes"
+- MS-RL -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> PostgreSQL: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> SunPro: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> SSH-short: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> NCSA: changed from "Unknown" to "Yes"
+- MPL-2.0 -> SunPro: changed from "Unknown" to "Yes"
+- OSL-3.0 -> JasPer-2.0: changed from "Unknown" to "Yes"
+- MS-PL -> NCSA: changed from "Unknown" to "Yes"
+- Sleepycat -> 0BSD: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> HPND: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> LicenseRef-scancode-info-zip-2003-05: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> MIT-CMU: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> libtiff: changed from "Unknown" to "Yes"
+- EUPL-1.1 -> MirOS: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> 0BSD: changed from "Unknown" to "Yes"
+- OpenSSL -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- MPL-2.0 -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> MIT-CMU: changed from "Unknown" to "Yes"
+- OSL-3.0 -> SSH-short: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> ECL-2.0: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> JasPer-2.0: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> NCSA: changed from "Unknown" to "Yes"
+- IPL-1.0 -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- OpenSSL -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- OpenSSL -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- MPL-2.0-no-copyleft-exception -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> W3C: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- MS-PL -> bzip2-1.0.6: changed from "Yes" to "Unknown"
+- GPL-2.0-or-later -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> libtiff: changed from "Unknown" to "Yes"
+- CDDL-1.0 -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- OSL-3.0 -> bzip2-1.0.5: changed from "Yes" to "Unknown"
+- AGPL-3.0-or-later -> libtiff: changed from "Unknown" to "Yes"
+- CPL-1.0 -> SSH-short: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> PHP-3.01: changed from "Unknown" to "No"
+- CDDL-1.1 -> 0BSD: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> MIT-CMU: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- CDDL-1.0 -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> PostgreSQL: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> PHP-3.01: changed from "Unknown" to "No"
+- IPL-1.0 -> MIT-CMU: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> SunPro: changed from "Unknown" to "Yes"
+- MS-RL -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> ECL-2.0: changed from "Unknown" to "No"
+- GPL-1.0-or-later -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> NCSA: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> SunPro: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> MirOS: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> W3C-19980720: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> 0BSD: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> 0BSD: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> HPND: changed from "Unknown" to "Yes"
+- MPL-2.0 -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- MS-RL -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- MS-RL -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> W3C: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> MIT-CMU: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> MIT-CMU: changed from "Unknown" to "Yes"
+- CDDL-1.0 -> SSH-short: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- EUPL-1.1 -> 0BSD: changed from "Unknown" to "Yes"
+- MPL-2.0 -> SSH-short: changed from "Unknown" to "Yes"
+- EUPL-1.2 -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- MPL-2.0 -> libpng-2.0: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> W3C: changed from "Unknown" to "Yes"
+- MS-PL -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- EPL-1.0 -> SunPro: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- MPL-2.0 -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> XFree86-1.1: changed from "No" to "Yes"
+- CDDL-1.0 -> HPND: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> LicenseRef-scancode-info-zip-2003-05: changed from "Unknown" to "Yes"
+- Sleepycat -> MIT-CMU: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> PHP-3.01: changed from "Unknown" to "No"
+- LGPL-2.0-or-later -> libpng-2.0: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> libtiff: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> LicenseRef-scancode-info-zip-2003-05: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> SunPro: changed from "Unknown" to "Yes"
+- Sleepycat -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- CPL-1.0 -> 0BSD: changed from "Unknown" to "Yes"
+- EPL-1.0 -> JasPer-2.0: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- IPL-1.0 -> HPND: changed from "Unknown" to "Yes"
+- MPL-1.1 -> 0BSD: changed from "Unknown" to "Yes"
+- MS-RL -> libtiff: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> IJG: changed from "No" to "Yes"
+- EUPL-1.2 -> SunPro: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- EPL-2.0 -> libtiff: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> W3C-20150513: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> libpng-2.0: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- Sleepycat -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> HPND: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> ECL-2.0: changed from "Unknown" to "No"
+- LGPL-2.1-or-later -> W3C: changed from "Unknown" to "Yes"
+- EUPL-1.1 -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- EPL-2.0 -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> libpng-2.0: changed from "Unknown" to "Yes"
+- CPL-1.0 -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> HPND: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> Minpack: changed from "Unknown" to "No"
+- MPL-2.0-no-copyleft-exception -> MirOS: changed from "Unknown" to "Yes"
+- CPL-1.0 -> HPND: changed from "Unknown" to "Yes"
+- MPL-2.0 -> MirOS: changed from "Unknown" to "Yes"
+- CDDL-1.0 -> MIT-CMU: changed from "Unknown" to "Yes"
+- MPL-2.0-no-copyleft-exception -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> 0BSD: changed from "Unknown" to "Yes"
+- EUPL-1.1 -> libtiff: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> W3C-20150513: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> PHP-3.01: changed from "Unknown" to "No"
+- GPL-2.0-or-later -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- MS-RL -> MIT-CMU: changed from "Unknown" to "Yes"
+- OpenSSL -> MirOS: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> XFree86-1.1: changed from "No" to "Yes"
+- LGPL-2.1-or-later -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- MPL-1.1 -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> IJG: changed from "No" to "Yes"
+- GPL-2.0-only -> JasPer-2.0: changed from "Unknown" to "Yes"
+- CDDL-1.0 -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> JasPer-2.0: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> MIT-CMU: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> SSH-short: changed from "Unknown" to "Yes"
+- OpenSSL -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- EPL-1.0 -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- Sleepycat -> libpng-2.0: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> libtiff: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> SunPro: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> 0BSD: changed from "Unknown" to "Yes"
+- EPL-2.0 -> SunPro: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> LicenseRef-scancode-info-zip-2003-05: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> HPND: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> libtiff: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> PostgreSQL: changed from "Unknown" to "Yes"
+- MS-RL -> HPND: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> IJG: changed from "No" to "Yes"
+- MPL-2.0 -> 0BSD: changed from "Unknown" to "Yes"
+- IPL-1.0 -> bzip2-1.0.6: changed from "Yes" to "Unknown"
+- AGPL-3.0-only -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- OSL-3.0 -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> JasPer-2.0: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> libpng-2.0: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> NCSA: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> MIT-CMU: changed from "Unknown" to "Yes"
+- OSL-3.0 -> libtiff: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> ECL-2.0: changed from "Unknown" to "No"
+- OpenSSL -> bzip2-1.0.5: changed from "Yes" to "Unknown"
+- EPL-2.0 -> MirOS: changed from "Unknown" to "Yes"
+- MS-PL -> JasPer-2.0: changed from "Unknown" to "Yes"
+- EPL-2.0 -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- EUPL-1.2 -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> LicenseRef-scancode-info-zip-2003-05: changed from "Unknown" to "Yes"
+- MPL-2.0 -> JasPer-2.0: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> libpng-2.0: changed from "Unknown" to "Yes"
+- CPL-1.0 -> libpng-2.0: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> IJG: changed from "No" to "Yes"
+- MS-PL -> MIT-CMU: changed from "Unknown" to "Yes"
+- EPL-1.0 -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> SunPro: changed from "Unknown" to "Yes"
+- IPL-1.0 -> MirOS: changed from "Unknown" to "Yes"
+- EPL-2.0 -> libpng-2.0: changed from "Unknown" to "Yes"
+- OSL-3.0 -> libpng-2.0: changed from "Unknown" to "Yes"
+- EUPL-1.2 -> HPND: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- EUPL-1.1 -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> libtiff: changed from "Unknown" to "Yes"
+- CDDL-1.0 -> SunPro: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> LicenseRef-scancode-info-zip-2003-05: changed from "Unknown" to "Yes"
+- IPL-1.0 -> bzip2-1.0.5: changed from "Yes" to "Unknown"
+- GPL-1.0-or-later -> NCSA: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> W3C-19980720: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> LicenseRef-scancode-info-zip-2003-05: changed from "Unknown" to "Yes"
+- EPL-1.0 -> MirOS: changed from "Unknown" to "Yes"
+- EUPL-1.1 -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- EUPL-1.2 -> bzip2-1.0.6: changed from "Yes" to "Unknown"
+- GPL-3.0-or-later -> ECL-2.0: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> SSH-short: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> SSH-short: changed from "Unknown" to "Yes"
+- MPL-2.0-no-copyleft-exception -> bzip2-1.0.5: changed from "Yes" to "Unknown"
+- GPL-2.0-only -> SunPro: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> HPND: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> HPND: changed from "Unknown" to "Yes"
+- IPL-1.0 -> libpng-2.0: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- CDDL-1.0 -> JasPer-2.0: changed from "Unknown" to "Yes"
+- EUPL-1.2 -> MIT-CMU: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> PostgreSQL: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> SunPro: changed from "Unknown" to "Yes"
+- Sleepycat -> MirOS: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> ECL-2.0: changed from "Unknown" to "No"
+- LGPL-2.0-only -> libpng-2.0: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> W3C-19980720: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> SunPro: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> PostgreSQL: changed from "Unknown" to "Yes"
+- MPL-2.0-no-copyleft-exception -> libtiff: changed from "Unknown" to "Yes"
+- OSL-3.0 -> HPND: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> libpng-2.0: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> IJG: changed from "No" to "Yes"
+- GPL-1.0-only -> Minpack: changed from "Unknown" to "No"
+- CDDL-1.0 -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> libtiff: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> IJG: changed from "No" to "Yes"
+- GPL-3.0-or-later -> JasPer-2.0: changed from "Unknown" to "Yes"
+- MPL-1.1 -> HPND: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> PHP-3.01: changed from "Unknown" to "No"
+- LGPL-2.0-only -> libtiff: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> SSH-short: changed from "Unknown" to "Yes"
+- OpenSSL -> NCSA: changed from "Unknown" to "Yes"
+- EUPL-1.2 -> libtiff: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> JasPer-2.0: changed from "Unknown" to "Yes"
+- OpenSSL -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> W3C-19980720: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> PostgreSQL: changed from "Unknown" to "Yes"
+- IPL-1.0 -> JasPer-2.0: changed from "Unknown" to "Yes"
+- MPL-1.1 -> bzip2-1.0.5: changed from "Yes" to "Unknown"
+- LGPL-2.0-only -> LicenseRef-scancode-info-zip-2003-05: changed from "Unknown" to "Yes"
+- IPL-1.0 -> 0BSD: changed from "Unknown" to "Yes"
+- EUPL-1.1 -> libpng-2.0: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> libtiff: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> MirOS: changed from "Unknown" to "Yes"
+- OSL-3.0 -> SunPro: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- MS-PL -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> LicenseRef-scancode-info-zip-2003-05: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> Minpack: changed from "Unknown" to "No"
+- AGPL-3.0-or-later -> 0BSD: changed from "Unknown" to "Yes"
+- EUPL-1.2 -> NCSA: changed from "Unknown" to "Yes"
+- CPL-1.0 -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- CPL-1.0 -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- MPL-1.1 -> JasPer-2.0: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- MS-RL -> libpng-2.0: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- EPL-1.0 -> bzip2-1.0.6: changed from "Yes" to "Unknown"
+- GPL-2.0-or-later -> libpng-2.0: changed from "Unknown" to "Yes"
+- CPL-1.0 -> libtiff: changed from "Unknown" to "Yes"
+- EPL-1.0 -> NCSA: changed from "Unknown" to "Yes"
+- Sleepycat -> SunPro: changed from "Unknown" to "Yes"
+- EPL-1.0 -> SSH-short: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> 0BSD: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> ECL-2.0: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> SunPro: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> libpng-2.0: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> XFree86-1.1: changed from "No" to "Yes"
+- EUPL-1.2 -> bzip2-1.0.5: changed from "Yes" to "Unknown"
+- AGPL-3.0-only -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- CDDL-1.0 -> libpng-2.0: changed from "Unknown" to "Yes"
+- EUPL-1.2 -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- MS-RL -> SSH-short: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> 0BSD: changed from "Unknown" to "Yes"
+- EUPL-1.1 -> HPND: changed from "Unknown" to "Yes"
+- EUPL-1.1 -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> ECL-2.0: changed from "Unknown" to "No"
+- EUPL-1.1 -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- MS-PL -> Unicode-DFS-2016: changed from "Unknown" to "Yes"
+- MPL-2.0-no-copyleft-exception -> JasPer-2.0: changed from "Unknown" to "Yes"
+- IPL-1.0 -> NCSA: changed from "Unknown" to "Yes"
+- IPL-1.0 -> SSH-short: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- MS-RL -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> libpng-2.0: changed from "Unknown" to "Yes"
+- EPL-1.0 -> MIT-CMU: changed from "Unknown" to "Yes"
+- EPL-1.0 -> libpng-2.0: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> SSH-short: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> MirOS: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> 0BSD: changed from "Unknown" to "Yes"
+- CPL-1.0 -> bzip2-1.0.5: changed from "Yes" to "Unknown"
+- LGPL-2.0-or-later -> LicenseRef-scancode-info-zip-2003-05: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> JasPer-2.0: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> ECL-2.0: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> PHP-3.01: changed from "Unknown" to "No"
+- GPL-1.0-only -> HPND: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> SunPro: changed from "Unknown" to "Yes"
+- OSL-3.0 -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> MIT-CMU: changed from "Unknown" to "Yes"
+- IPL-1.0 -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> JasPer-2.0: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> HPND: changed from "Unknown" to "Yes"
+- IPL-1.0 -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- MPL-2.0-no-copyleft-exception -> libpng-2.0: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> 0BSD: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> PHP-3.01: changed from "Unknown" to "No"
+- LGPL-2.1-only -> NCSA: changed from "Unknown" to "Yes"
+- MS-RL -> bzip2-1.0.5: changed from "Yes" to "Unknown"
+- LGPL-3.0-only -> W3C-20150513: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> Minpack: changed from "Unknown" to "No"
+- MPL-2.0 -> MIT-CMU: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> MIT-CMU: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> PHP-3.01: changed from "Unknown" to "No"
+- CDDL-1.0 -> MirOS: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> MirOS: changed from "Unknown" to "Yes"
+- EPL-2.0 -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> JasPer-2.0: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- EUPL-1.2 -> SSH-short: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> IJG: changed from "No" to "Yes"
+- EUPL-1.1 -> MIT-CMU: changed from "Unknown" to "Yes"
+- CDDL-1.0 -> libtiff: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> MirOS: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> libpng-2.0: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> WITH: changed from "No" to "Yes"
+- GPL-1.0-or-later -> PHP-3.01: changed from "Unknown" to "No"
+- EUPL-1.2 -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> MIT-CMU: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> NCSA: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> W3C: changed from "Unknown" to "Yes"
+- MPL-2.0-no-copyleft-exception -> NCSA: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> IJG: changed from "No" to "Yes"
+- LGPL-2.0-or-later -> W3C-20150513: changed from "Unknown" to "Yes"
+- OSL-3.0 -> MIT-CMU: changed from "Unknown" to "Yes"
+- CPL-1.0 -> SunPro: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> MirOS: changed from "Unknown" to "Yes"
+- IPL-1.0 -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> W3C-20150513: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> SunPro: changed from "Unknown" to "Yes"
+- IPL-1.0 -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- MPL-2.0 -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- MPL-2.0-no-copyleft-exception -> 0BSD: changed from "Unknown" to "Yes"
+- EPL-2.0 -> NCSA: changed from "Unknown" to "Yes"
+- MPL-1.1 -> SSH-short: changed from "Unknown" to "Yes"
+- OSL-3.0 -> OLDAP-2.8: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> SSH-short: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> NCSA: changed from "Unknown" to "Yes"
+- IPL-1.0 -> SunPro: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> Minpack: changed from "Unknown" to "No"
+- GPL-2.0-only -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> SSH-short: changed from "Unknown" to "Yes"
+- MPL-1.1 -> libpng-2.0: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> BSD-Source-Code: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> MIT-CMU: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> WITH: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> W3C-19980720: changed from "Unknown" to "Yes"
+- OpenSSL -> bzip2-1.0.6: changed from "Yes" to "Unknown"
+- OpenSSL -> JasPer-2.0: changed from "Unknown" to "Yes"
+- Sleepycat -> HPND: changed from "Unknown" to "Yes"
+- CPL-1.0 -> MIT-CMU: changed from "Unknown" to "Yes"
+- MS-RL -> NCSA: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> Minpack: changed from "Unknown" to "No"
+- EPL-2.0 -> bzip2-1.0.5: changed from "Yes" to "Unknown"
+- LGPL-2.1-only -> PostgreSQL: changed from "Unknown" to "Yes"
+- MS-PL -> libpng-2.0: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- MPL-2.0-no-copyleft-exception -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- MPL-1.1 -> SunPro: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> NCSA: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> BSD-3-Clause-Open-MPI: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> BSD-1-Clause: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> XFree86-1.1: changed from "No" to "Yes"
+- EPL-1.0 -> 0BSD: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> JasPer-2.0: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- MPL-1.1 -> SSH-OpenSSH: changed from "Unknown" to "Yes"
+- MPL-1.1 -> MirOS: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> SSH-short: changed from "Unknown" to "Yes"
+
+# Changes in 2024-02-12T03:50:00+00:00
+
+- GPL-2.0-only -> LGPL-2.0-or-later: changed from "No" to "Yes"
+- GPL-3.0-or-later -> LGPL-2.0-only: changed from "No" to "Yes"
+- GPL-1.0-or-later -> LGPL-2.1-only: changed from "Check dependency" to "Yes"
+- GPL-3.0-or-later -> LGPL-2.0-or-later: changed from "No" to "Yes"
+- GPL-1.0-or-later -> LGPL-2.0-only: changed from "No" to "Yes"
+- GPL-2.0-or-later -> LGPL-2.0-only: changed from "No" to "Yes"
+- MPL-2.0 -> MPL-1.1: changed from "No" to "Yes"
+- GPL-1.0-or-later -> LGPL-2.0-or-later: changed from "No" to "Yes"
+- GPL-3.0-only -> LGPL-2.0-only: changed from "No" to "Yes"
+- GPL-3.0-only -> LGPL-2.0-or-later: changed from "No" to "Yes"
+- GPL-1.0-or-later -> LGPL-2.1-or-later: changed from "Check dependency" to "Yes"
+- GPL-2.0-or-later -> LGPL-2.0-or-later: changed from "No" to "Yes"
+- GPL-2.0-only -> LGPL-2.0-only: changed from "No" to "Yes"
+
+# Changes in 2024-02-02T05:39:00+00:00
+
+- LGPL-2.0-or-later -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> EUPL-1.2: changed from "No" to "Yes"
+- MS-PL -> FSFULLRWD: changed from "Unknown" to "Yes"
+- Sleepycat -> FSFUL: changed from "Unknown" to "Yes"
+- CDDL-1.0 -> FSFUL: changed from "Unknown" to "Yes"
+- CDDL-1.0 -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- OSL-3.0 -> Saxpath: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> FSFUL: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> SMLNJ: changed from "Unknown" to "Yes"
+- Sleepycat -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- MPL-1.1 -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> SMLNJ: changed from "Unknown" to "Yes"
+- MS-PL -> Saxpath: changed from "Unknown" to "Yes"
+- MS-PL -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- MS-PL -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> FSFUL: changed from "Unknown" to "Yes"
+- Sleepycat -> FSFULLRWD: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> Saxpath: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> Saxpath: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> Saxpath: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> Saxpath: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> WITH: changed from "Unknown" to "Yes"
+- EUPL-1.1 -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> Saxpath: changed from "Unknown" to "Yes"
+- MS-RL -> FSFUL: changed from "Unknown" to "Yes"
+- MS-PL -> SMLNJ: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> FSFULLRWD: changed from "Unknown" to "Yes"
+- OSL-3.0 -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- CDDL-1.0 -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> Saxpath: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> FSFUL: changed from "Unknown" to "Yes"
+- OpenSSL -> FSFUL: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> Saxpath: changed from "Unknown" to "Yes"
+- EUPL-1.1 -> SMLNJ: changed from "Unknown" to "Yes"
+- EPL-1.0 -> Saxpath: changed from "Unknown" to "Yes"
+- CPL-1.0 -> Saxpath: changed from "Unknown" to "Yes"
+- MS-RL -> Saxpath: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> SMLNJ: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> EUPL-1.2: changed from "No" to "Yes"
+- EPL-1.0 -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- EPL-2.0 -> SMLNJ: changed from "Unknown" to "Yes"
+- IPL-1.0 -> FSFUL: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- MPL-2.0 -> SMLNJ: changed from "Unknown" to "Yes"
+- EUPL-1.1 -> FSFUL: changed from "Unknown" to "Yes"
+- EUPL-1.2 -> FSFULLRWD: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- MPL-2.0 -> Saxpath: changed from "Unknown" to "Yes"
+- MS-PL -> FSFUL: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> FSFUL: changed from "Unknown" to "Yes"
+- EUPL-1.2 -> SMLNJ: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> Saxpath: changed from "Unknown" to "Yes"
+- Sleepycat -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> FSFULLRWD: changed from "Unknown" to "Yes"
+- OSL-3.0 -> FSFULLRWD: changed from "Unknown" to "Yes"
+- OSL-3.0 -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- MS-RL -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- IPL-1.0 -> SMLNJ: changed from "Unknown" to "Yes"
+- CPL-1.0 -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- CPL-1.0 -> SMLNJ: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> SMLNJ: changed from "Unknown" to "Yes"
+- EPL-1.0 -> EUPL-1.2: changed from "No" to "Yes"
+- LGPL-2.0-only -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- EUPL-1.1 -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> EUPL-1.2: changed from "No" to "Yes"
+- EUPL-1.2 -> Saxpath: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> Saxpath: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> SMLNJ: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> Saxpath: changed from "Unknown" to "Yes"
+- OSL-3.0 -> FSFUL: changed from "Unknown" to "Yes"
+- OpenSSL -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- CPL-1.0 -> FSFULLRWD: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> Saxpath: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- EUPL-1.1 -> Saxpath: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> Saxpath: changed from "Unknown" to "Yes"
+- OSL-3.0 -> EUPL-1.2: changed from "No" to "Yes"
+- MPL-1.1 -> Saxpath: changed from "Unknown" to "Yes"
+- EPL-1.0 -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> SMLNJ: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> FSFULLRWD: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> FSFUL: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> FSFUL: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> FSFUL: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> EUPL-1.2: changed from "No" to "Yes"
+- MPL-2.0 -> FSFULLRWD: changed from "Unknown" to "Yes"
+- MPL-2.0 -> FSFUL: changed from "Unknown" to "Yes"
+- OpenSSL -> FSFULLRWD: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> FSFUL: changed from "Unknown" to "Yes"
+- EUPL-1.2 -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> FSFULLRWD: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> EUPL-1.2: changed from "No" to "Yes"
+- GPL-3.0-only -> SMLNJ: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- EUPL-1.2 -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> FSFULLRWD: changed from "Unknown" to "Yes"
+- EPL-1.0 -> FSFULLRWD: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- IPL-1.0 -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> FSFUL: changed from "Unknown" to "Yes"
+- EPL-2.0 -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- OpenSSL -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- OpenSSL -> SMLNJ: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> FSFULLRWD: changed from "Unknown" to "Yes"
+- MS-RL -> SMLNJ: changed from "Unknown" to "Yes"
+- Sleepycat -> Saxpath: changed from "Unknown" to "Yes"
+- EPL-1.0 -> SMLNJ: changed from "Unknown" to "Yes"
+- MPL-2.0-no-copyleft-exception -> FSFUL: changed from "Unknown" to "Yes"
+- EPL-1.0 -> FSFUL: changed from "Unknown" to "Yes"
+- MPL-1.1 -> SMLNJ: changed from "Unknown" to "Yes"
+- CDDL-1.0 -> Saxpath: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> FSFULLRWD: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> FSFUL: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> FSFULLRWD: changed from "Unknown" to "Yes"
+- MPL-1.1 -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- CDDL-1.0 -> FSFULLRWD: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- MPL-2.0 -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- MPL-2.0-no-copyleft-exception -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> SMLNJ: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> EUPL-1.2: changed from "No" to "Yes"
+- GPL-1.0-only -> SMLNJ: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> SMLNJ: changed from "Unknown" to "Yes"
+- EPL-2.0 -> FSFUL: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> SMLNJ: changed from "Unknown" to "Yes"
+- CDDL-1.1 -> SMLNJ: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> FSFULLRWD: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> FSFULLRWD: changed from "Unknown" to "Yes"
+- MPL-2.0-no-copyleft-exception -> FSFULLRWD: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- OpenSSL -> Saxpath: changed from "Unknown" to "Yes"
+- LGPL-2.1-or-later -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- LGPL-3.0-only -> SMLNJ: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> Saxpath: changed from "Unknown" to "Yes"
+- GPL-2.0-only -> FSFUL: changed from "Unknown" to "Yes"
+- EUPL-1.1 -> FSFULLRWD: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> SMLNJ: changed from "Unknown" to "Yes"
+- IPL-1.0 -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- LGPL-2.0-or-later -> FSFULLRWD: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- MPL-1.1 -> FSFULLRWD: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> FSFULLRWD: changed from "Unknown" to "Yes"
+- GPL-1.0-or-later -> FSFULLRWD: changed from "Unknown" to "Yes"
+- MPL-2.0-no-copyleft-exception -> Saxpath: changed from "Unknown" to "Yes"
+- CPL-1.0 -> FSFUL: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> Saxpath: changed from "Unknown" to "Yes"
+- IPL-1.0 -> FSFULLRWD: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> EUPL-1.2: changed from "No" to "Yes"
+- EPL-2.0 -> FSFULLRWD: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- MS-RL -> FSFULLRWD: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> FSFULLRWD: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- IPL-1.0 -> Saxpath: changed from "Unknown" to "Yes"
+- AGPL-3.0-or-later -> EUPL-1.2: changed from "No" to "Yes"
+- EPL-2.0 -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- EUPL-1.2 -> FSFUL: changed from "Unknown" to "Yes"
+- LGPL-2.1-only -> EUPL-1.2: changed from "No" to "Yes"
+- MPL-1.1 -> FSFUL: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> FSFULLRWD: changed from "Unknown" to "Yes"
+- MPL-2.0 -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> FSFUL: changed from "Unknown" to "Yes"
+- OSL-3.0 -> SMLNJ: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> FSFUL: changed from "Unknown" to "Yes"
+- Sleepycat -> SMLNJ: changed from "Unknown" to "Yes"
+- GPL-3.0-only -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- AGPL-3.0-only -> Saxpath: changed from "Unknown" to "Yes"
+- GPL-1.0-only -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- MS-RL -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- CPL-1.0 -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- LGPL-2.0-only -> SMLNJ: changed from "Unknown" to "Yes"
+- EUPL-1.2 -> EUPL-1.1: changed from "No" to "Yes"
+- AGPL-3.0-only -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- EPL-2.0 -> Saxpath: changed from "Unknown" to "Yes"
+- MPL-2.0-no-copyleft-exception -> SGI-B-2.0: changed from "Unknown" to "Yes"
+- MPL-2.0-no-copyleft-exception -> SMLNJ: changed from "Unknown" to "Yes"
+- GPL-2.0-or-later -> FSFUL: changed from "Unknown" to "Yes"
+- GPL-3.0-or-later -> FSFUL: changed from "Unknown" to "Yes"
+- LGPL-3.0-or-later -> LicenseRef-scancode-ppp: changed from "Unknown" to "Yes"
+- CDDL-1.0 -> SMLNJ: changed from "Unknown" to "Yes"
+
+# Changes in 2024-02-01T05:40:00+00:00
+
+- 0BSD: newly added
+- CPL-1.0: newly added
+- OSL-3.0: newly added
+- BSD-1-Clause: newly added
+- BSD-3-Clause: newly added
+- SMLNJ: newly added
+- W3C-19980720: newly added
+- IPL-1.0: newly added
+- BSD-3-Clause-Open-MPI: newly added
+- OpenSSL: newly added
+- CC-BY-2.5: newly added
+- MIT: newly added
+- ImageMagick: newly added
+- NTP: newly added
+- OLDAP-2.8: newly added
+- RSA-MD: newly added
+- UPL-1.0: newly added
+- AFL-3.0: newly added
+- Apache-1.0: newly added
+- IBM-pibs: newly added
+- LGPL-2.0-only: newly added
+- ZPL-2.0: newly added
+- BSD-Source-Code: newly added
+- ISC: newly added
+- EUPL-1.2: newly added
+- IJG: newly added
+- FSFULLRWD: newly added
+- LGPL-2.1-or-later: newly added
+- Saxpath: newly added
+- GPL-2.0-only: newly added
+- AGPL-3.0-only: newly added
+- GPL-1.0-or-later: newly added
+- MPL-2.0-no-copyleft-exception: newly added
+- PHP-3.01: newly added
+- Apache-2.0: newly added
+- LGPL-3.0-only: newly added
+- Unlicense: newly added
+- BSD-2-Clause: newly added
+- Unicode-DFS-2015: newly added
+- bzip2-1.0.6: newly added
+- BSD-4-Clause-UC: newly added
+- libpng-2.0: newly added
+- zlib-acknowledgement: newly added
+- MS-PL: newly added
+- MPL-2.0: newly added
+- EUPL-1.1: newly added
+- XFree86-1.1: newly added
+- LGPL-3.0-or-later: newly added
+- EFL-2.0: newly added
+- LicenseRef-scancode-ppp: newly added
+- blessing: newly added
+- ECL-1.0: newly added
+- GPL-3.0-or-later: newly added
+- Artistic-1.0: newly added
+- W3C: newly added
+- CDDL-1.0: newly added
+- NBPL-1.0: newly added
+- AFL-2.1: newly added
+- PostgreSQL: newly added
+- W3C-20150513: newly added
+- Artistic-2.0: newly added
+- AFL-2.0: newly added
+- SSH-OpenSSH: newly added
+- HPND: newly added
+- FSFULLR: newly added
+- FSFAP: newly added
+- SGI-B-2.0: newly added
+- Python-2.0: newly added
+- FTL: newly added
+- Qhull: newly added
+- GPL-2.0-or-later: newly added
+- BSL-1.0: newly added
+- BSD-2-Clause-Patent: newly added
+- Libpng: newly added
+- Apache-1.1: newly added
+- NCSA: newly added
+- MPL-1.1: newly added
+- Artistic-1.0-Perl: newly added
+- CDDL-1.1: newly added
+- LGPL-2.0-or-later: newly added
+- WTFPL: newly added
+- MS-RL: newly added
+- MIT-CMU: newly added
+- CC-BY-3.0: newly added
+- SSH-short: newly added
+- X11: newly added
+- ECL-2.0: newly added
+- EPL-1.0: newly added
+- EPL-2.0: newly added
+- Sleepycat: newly added
+- SunPro: newly added
+- bzip2-1.0.5: newly added
+- ICU: newly added
+- Unicode-DFS-2016: newly added
+- Zlib: newly added
+- Minpack: newly added
+- CC0-1.0: newly added
+- Bitstream-Vera: newly added
+- LicenseRef-scancode-info-zip-2003-05: newly added
+- BSD-4-Clause: newly added
+- LGPL-2.1-only: newly added
+- libtiff: newly added
+- AGPL-3.0-or-later: newly added
+- JasPer-2.0: newly added
+- GPL-1.0-only: newly added
+- curl: newly added
+- FSFUL: newly added
+- Info-ZIP: newly added
+- MirOS: newly added
+- GPL-3.0-only: newly added
+
+# Changes in 2024-01-31T04:41:00+00:00
+
+- AGPL-3.0-only -> EUPL-1.2: changed from "No" to "Yes"
+- EUPL-1.2 -> MPL-2.0: changed from "No" to "Yes"
+- MPL-2.0 -> EUPL-1.2: changed from "No" to "Yes"
+
+# Changes in 2024-01-30T04:30:00+00:00
+
+- BSD-1-Clause: newly added
+- GPL-2.0-or-later: newly added
+- Saxpath: newly added
+- EUPL-1.2: newly added
+- BSD-4-Clause-UC: newly added
+- IPL-1.0: newly added
+- MirOS: newly added
+- LGPL-3.0-only: newly added
+- Unicode-DFS-2015: newly added
+- bzip2-1.0.5: newly added
+- CC0-1.0: newly added
+- WTFPL: newly added
+- JasPer-2.0: newly added
+- PHP-3.01: newly added
+- libpng-2.0: newly added
+- MIT-CMU: newly added
+- FSFULLR: newly added
+- EPL-2.0: newly added
+- Unlicense: newly added
+- SGI-B-2.0: newly added
+- Libpng: newly added
+- MIT: newly added
+- LGPL-2.0-only: newly added
+- Bitstream-Vera: newly added
+- AFL-2.0: newly added
+- MPL-2.0-no-copyleft-exception: newly added
+- blessing: newly added
+- GPL-1.0-only: newly added
+- CC-BY-2.5: newly added
+- CC-BY-3.0: newly added
+- ISC: newly added
+- W3C: newly added
+- HPND: newly added
+- Qhull: newly added
+- ECL-1.0: newly added
+- BSD-2-Clause: newly added
+- GPL-2.0-only: newly added
+- Info-ZIP: newly added
+- SunPro: newly added
+- CDDL-1.1: newly added
+- EUPL-1.1: newly added
+- MPL-2.0: newly added
+- GPL-3.0-only: newly added
+- LGPL-2.0-or-later: newly added
+- BSD-4-Clause: newly added
+- NCSA: newly added
+- MS-PL: newly added
+- ECL-2.0: newly added
+- W3C-19980720: newly added
+- LGPL-3.0-or-later: newly added
+- bzip2-1.0.6: newly added
+- zlib-acknowledgement: newly added
+- AFL-2.1: newly added
+- FSFULLRWD: newly added
+- FSFAP: newly added
+- SSH-short: newly added
+- CPL-1.0: newly added
+- W3C-20150513: newly added
+- MPL-1.1: newly added
+- EPL-1.0: newly added
+- 0BSD: newly added
+- SSH-OpenSSH: newly added
+- LGPL-2.1-or-later: newly added
+- Zlib: newly added
+- Artistic-1.0-Perl: newly added
+- Apache-2.0: newly added
+- RSA-MD: newly added
+- BSD-2-Clause-Patent: newly added
+- IJG: newly added
+- OpenSSL: newly added
+- ZPL-2.0: newly added
+- LGPL-2.1-only: newly added
+- GPL-3.0-or-later: newly added
+- AFL-3.0: newly added
+- Artistic-2.0: newly added
+- GPL-1.0-or-later: newly added
+- BSD-3-Clause-Open-MPI: newly added
+- ICU: newly added
+- curl: newly added
+- BSL-1.0: newly added
+- NTP: newly added
+- Sleepycat: newly added
+- Minpack: newly added
+- UPL-1.0: newly added
+- IBM-pibs: newly added
+- BSD-3-Clause: newly added
+- MS-RL: newly added
+- OSL-3.0: newly added
+- EFL-2.0: newly added
+- Unicode-DFS-2016: newly added
+- NBPL-1.0: newly added
+- BSD-Source-Code: newly added
+- PostgreSQL: newly added
+- libtiff: newly added
+- AGPL-3.0-or-later: newly added
+- Python-2.0: newly added
+- FSFUL: newly added
+- Apache-1.1: newly added
+- XFree86-1.1: newly added
+- OLDAP-2.8: newly added
+- Artistic-1.0: newly added
+- CDDL-1.0: newly added
+- X11: newly added
+- FTL: newly added
+- ImageMagick: newly added
+- Apache-1.0: newly added
+- AGPL-3.0-only: newly added
+- SMLNJ: newly added
+
+# Changes in 2023-10-17T02:13:00+00:00
+
+- HPND: newly added
+- AFL-3.0: newly added
+- bzip2-1.0.6: newly added
+- CDDL-1.0: newly added
+- FSFULLR: newly added
+- Apache-1.1: newly added
+- zlib-acknowledgement: newly added
+- MS-PL: newly added
+- BSD-4-Clause: newly added
+- MIT: newly added
+- W3C: newly added
+- EPL-1.0: newly added
+- Unlicense: newly added
+- Apache-1.0: newly added
+- MPL-2.0-no-copyleft-exception: newly added
+- BSD-2-Clause: newly added
+- LGPL-2.1-or-later: newly added
+- ImageMagick: newly added
+- IPL-1.0: newly added
+- OLDAP-2.8: newly added
+- Zlib: newly added
+- BSL-1.0: newly added
+- BSD-1-Clause: newly added
+- SSH-short: newly added
+- NTP: newly added
+- WTFPL: newly added
+- CDDL-1.1: newly added
+- MPL-1.1: newly added
+- GPL-2.0-or-later: newly added
+- W3C-19980720: newly added
+- BSD-Source-Code: newly added
+- BSD-3-Clause-Open-MPI: newly added
+- Apache-2.0: newly added
+- GPL-2.0-only: newly added
+- Bitstream-Vera: newly added
+- LGPL-3.0-only: newly added
+- OpenSSL: newly added
+- MIT-CMU: newly added
+- CC0-1.0: newly added
+- W3C-20150513: newly added
+- Artistic-1.0: newly added
+- PHP-3.01: newly added
+- libpng-2.0: newly added
+- Minpack: newly added
+- Artistic-1.0-Perl: newly added
+- BSD-2-Clause-Patent: newly added
+- FTL: newly added
+- OSL-3.0: newly added
+- Sleepycat: newly added
+- LGPL-2.0-or-later: newly added
+- EPL-2.0: newly added
+- EUPL-1.2: newly added
+- MirOS: newly added
+- Artistic-2.0: newly added
+- Python-2.0: newly added
+- libtiff: newly added
+- UPL-1.0: newly added
+- GPL-1.0-or-later: newly added
+- Qhull: newly added
+- 0BSD: newly added
+- bzip2-1.0.5: newly added
+- ICU: newly added
+- X11: newly added
+- AGPL-3.0-only: newly added
+- LGPL-2.0-only: newly added
+- EUPL-1.1: newly added
+- LGPL-3.0-or-later: newly added
+- NCSA: newly added
+- ECL-2.0: newly added
+- AFL-2.1: newly added
+- PostgreSQL: newly added
+- IBM-pibs: newly added
+- SunPro: newly added
+- AGPL-3.0-or-later: newly added
+- Info-ZIP: newly added
+- Libpng: newly added
+- GPL-3.0-only: newly added
+- GPL-3.0-or-later: newly added
+- XFree86-1.1: newly added
+- blessing: newly added
+- BSD-3-Clause: newly added
+- Unicode-DFS-2016: newly added
+- CPL-1.0: newly added
+- NBPL-1.0: newly added
+- ISC: newly added
+- FSFAP: newly added
+- ZPL-2.0: newly added
+- RSA-MD: newly added
+- IJG: newly added
+- MS-RL: newly added
+- SSH-OpenSSH: newly added
+- CC-BY-3.0: newly added
+- Unicode-DFS-2015: newly added
+- GPL-1.0-only: newly added
+- EFL-2.0: newly added
+- JasPer-2.0: newly added
+- LGPL-2.1-only: newly added
+- MPL-2.0: newly added
+- BSD-4-Clause-UC: newly added
+- curl: newly added
+- AFL-2.0: newly added
+
+# Changes in 2023-09-04T02:08:00+00:00
+
+- EFL-2.0: newly added
+- MPL-2.0: newly added
+- BSD-4-Clause-UC: newly added
+- CDDL-1.0: newly added
+- XFree86-1.1: newly added
+- Bitstream-Vera: newly added
+- BSD-1-Clause: newly added
+- AFL-2.1: newly added
+- IPL-1.0: newly added
+- MirOS: newly added
+- IJG: newly added
+- bzip2-1.0.5: newly added
+- FSFULLR: newly added
+- LGPL-2.1-or-later: newly added
+- GPL-3.0-only: newly added
+- Apache-1.0: newly added
+- MS-PL: newly added
+- Apache-1.1: newly added
+- MIT: newly added
+- EPL-1.0: newly added
+- MPL-2.0-no-copyleft-exception: newly added
+- EPL-2.0: newly added
+- libtiff: newly added
+- Qhull: newly added
+- BSD-4-Clause: newly added
+- Unlicense: newly added
+- MS-RL: newly added
+- BSD-2-Clause-Patent: newly added
+- AFL-3.0: newly added
+- NBPL-1.0: newly added
+- Artistic-2.0: newly added
+- blessing: newly added
+- OpenSSL: newly added
+- Unicode-DFS-2015: newly added
+- BSD-Source-Code: newly added
+- bzip2-1.0.6: newly added
+- BSD-3-Clause: newly added
+- AGPL-3.0-or-later: newly added
+- NTP: newly added
+- W3C-20150513: newly added
+- W3C: newly added
+- EUPL-1.1: newly added
+- WTFPL: newly added
+- Apache-2.0: newly added
+- GPL-1.0-or-later: newly added
+- GPL-3.0-or-later: newly added
+- AGPL-3.0-only: newly added
+- Python-2.0: newly added
+- GPL-2.0-or-later: newly added
+- OSL-3.0: newly added
+- FTL: newly added
+- BSD-2-Clause: newly added
+- BSL-1.0: newly added
+- ZPL-2.0: newly added
+- OLDAP-2.8: newly added
+- SunPro: newly added
+- IBM-pibs: newly added
+- GPL-1.0-only: newly added
+- PHP-3.01: newly added
+- curl: newly added
+- 0BSD: newly added
+- CDDL-1.1: newly added
+- ICU: newly added
+- CC-BY-3.0: newly added
+- Sleepycat: newly added
+- Info-ZIP: newly added
+- CPL-1.0: newly added
+- ISC: newly added
+- RSA-MD: newly added
+- CC0-1.0: newly added
+- LGPL-2.1-only: newly added
+- ECL-2.0: newly added
+- ImageMagick: newly added
+- MPL-1.1: newly added
+- Artistic-1.0: newly added
+- HPND: newly added
+- EUPL-1.2: newly added
+- Libpng: newly added
+- W3C-19980720: newly added
+- Unicode-DFS-2016: newly added
+- Zlib: newly added
+- UPL-1.0: newly added
+- PostgreSQL: newly added
+- LGPL-3.0-only: newly added
+- MIT-CMU: newly added
+- Artistic-1.0-Perl: newly added
+- LGPL-3.0-or-later: newly added
+- zlib-acknowledgement: newly added
+- AFL-2.0: newly added
+- FSFAP: newly added
+- GPL-2.0-only: newly added
+- X11: newly added
+
+# Changes in 2023-03-15T03:08:00+00:00
+
+
+# Changes in 2023-03-13T03:11:00+00:00
+
+
+# Changes in 2023-03-10T03:09:00+00:00
+
+- Libpng -> CC-BY-3.0: newly added with "Yes"
+- ECL-2.0 -> CC-BY-3.0: newly added with "Yes"
+- EPL-1.0 -> CC-BY-3.0: newly added with "Unknown"
+- CDDL-1.0 -> CC-BY-3.0: newly added with "Unknown"
+- Apache-1.1 -> CC-BY-3.0: newly added with "Yes"
+- Unicode-DFS-2016 -> CC-BY-3.0: newly added with "Yes"
+- BSD-2-Clause-Patent -> CC-BY-3.0: newly added with "Yes"
+- LGPL-2.1-or-later -> CC-BY-3.0: newly added with "Unknown"
+- GPL-2.0-or-later -> CC-BY-3.0: newly added with "Unknown"
+- Artistic-1.0-Perl -> CC-BY-3.0: newly added with "Yes"
+- 0BSD -> CC-BY-3.0: newly added with "Yes"
+- Info-ZIP -> CC-BY-3.0: newly added with "Yes"
+- MIT -> CC-BY-3.0: newly added with "Yes"
+- EUPL-1.1 -> CC-BY-3.0: newly added with "Unknown"
+- FSFAP -> CC-BY-3.0: newly added with "Yes"
+- Artistic-1.0 -> CC-BY-3.0: newly added with "Yes"
+- BSD-1-Clause -> CC-BY-3.0: newly added with "Yes"
+- RSA-MD -> CC-BY-3.0: newly added with "Yes"
+- W3C-20150513 -> CC-BY-3.0: newly added with "Yes"
+- Unlicense -> CC-BY-3.0: newly added with "Yes"
+- bzip2-1.0.6 -> CC-BY-3.0: newly added with "Yes"
+- EPL-2.0 -> CC-BY-3.0: newly added with "Unknown"
+- zlib-acknowledgement -> CC-BY-3.0: newly added with "Yes"
+- IJG -> CC-BY-3.0: newly added with "Yes"
+- LGPL-2.1-only -> CC-BY-3.0: newly added with "Unknown"
+- GPL-2.0-only -> WITH: newly added with "Unknown"
+- Apache-1.0 -> CC-BY-3.0: newly added with "Yes"
+- BSD-4-Clause -> CC-BY-3.0: newly added with "Yes"
+- Qhull -> CC-BY-3.0: newly added with "Yes"
+- ICU -> CC-BY-3.0: newly added with "Yes"
+- GPL-2.0-only -> CC-BY-3.0: newly added with "Unknown"
+- BSD-4-Clause-UC -> CC-BY-3.0: newly added with "Yes"
+- XFree86-1.1 -> CC-BY-3.0: newly added with "Yes"
+- Python-2.0 -> CC-BY-3.0: newly added with "Yes"
+- WTFPL -> CC-BY-3.0: newly added with "Yes"
+- PHP-3.01 -> CC-BY-3.0: newly added with "Yes"
+- PostgreSQL -> CC-BY-3.0: newly added with "Yes"
+- AGPL-3.0-only -> CC-BY-3.0: newly added with "Unknown"
+- MPL-2.0-no-copyleft-exception -> CC-BY-3.0: newly added with "Unknown"
+- blessing -> CC-BY-3.0: newly added with "Yes"
+- HPND -> CC-BY-3.0: newly added with "Yes"
+- CC0-1.0 -> CC-BY-3.0: newly added with "Yes"
+- Zlib -> CC-BY-3.0: newly added with "Yes"
+- AFL-2.0 -> CC-BY-3.0: newly added with "Yes"
+- BSL-1.0 -> CC-BY-3.0: newly added with "Yes"
+- ZPL-2.0 -> CC-BY-3.0: newly added with "Yes"
+- MS-RL -> CC-BY-3.0: newly added with "Unknown"
+- OLDAP-2.8 -> CC-BY-3.0: newly added with "Yes"
+- GPL-3.0-only -> CC-BY-3.0: newly added with "Unknown"
+- Artistic-2.0 -> CC-BY-3.0: newly added with "Yes"
+- AFL-3.0 -> CC-BY-3.0: newly added with "Yes"
+- Apache-2.0 -> CC-BY-3.0: newly added with "Yes"
+- GPL-1.0-only -> CC-BY-3.0: newly added with "Unknown"
+- EUPL-1.2 -> CC-BY-3.0: newly added with "Unknown"
+- W3C -> CC-BY-3.0: newly added with "Yes"
+- ImageMagick -> CC-BY-3.0: newly added with "Yes"
+- AGPL-3.0-or-later -> CC-BY-3.0: newly added with "Unknown"
+- AFL-2.1 -> CC-BY-3.0: newly added with "Yes"
+- IPL-1.0 -> CC-BY-3.0: newly added with "Unknown"
+- LGPL-3.0-or-later -> CC-BY-3.0: newly added with "Unknown"
+- MPL-2.0 -> CC-BY-3.0: newly added with "Unknown"
+- BSD-2-Clause -> CC-BY-3.0: newly added with "Yes"
+- MIT-CMU -> CC-BY-3.0: newly added with "Yes"
+- OSL-3.0 -> CC-BY-3.0: newly added with "Unknown"
+- ISC -> CC-BY-3.0: newly added with "Yes"
+- EFL-2.0 -> CC-BY-3.0: newly added with "Yes"
+- LGPL-3.0-only -> CC-BY-3.0: newly added with "Unknown"
+- Sleepycat -> CC-BY-3.0: newly added with "Unknown"
+- NTP -> CC-BY-3.0: newly added with "Yes"
+- Unicode-DFS-2015 -> CC-BY-3.0: newly added with "Yes"
+- BSD-3-Clause -> CC-BY-3.0: newly added with "Yes"
+- W3C-19980720 -> CC-BY-3.0: newly added with "Yes"
+- SunPro -> CC-BY-3.0: newly added with "Yes"
+- curl -> CC-BY-3.0: newly added with "Yes"
+- NBPL-1.0 -> CC-BY-3.0: newly added with "Yes"
+- FSFULLR -> CC-BY-3.0: newly added with "Yes"
+- GPL-1.0-or-later -> CC-BY-3.0: newly added with "Unknown"
+- OpenSSL -> CC-BY-3.0: newly added with "Unknown"
+- UPL-1.0 -> CC-BY-3.0: newly added with "Yes"
+- CPL-1.0 -> CC-BY-3.0: newly added with "Unknown"
+- GPL-3.0-or-later -> CC-BY-3.0: newly added with "Unknown"
+- FTL -> CC-BY-3.0: newly added with "Yes"
+- MPL-1.1 -> CC-BY-3.0: newly added with "Unknown"
+- bzip2-1.0.5 -> CC-BY-3.0: newly added with "Yes"
+- libtiff -> CC-BY-3.0: newly added with "Yes"
+- X11 -> CC-BY-3.0: newly added with "Yes"
+- IBM-pibs -> CC-BY-3.0: newly added with "Yes"
+- BSD-Source-Code -> CC-BY-3.0: newly added with "Yes"
+- MirOS -> CC-BY-3.0: newly added with "Yes"
+- CDDL-1.1 -> CC-BY-3.0: newly added with "Unknown"
+- MS-PL -> CC-BY-3.0: newly added with "Unknown"
+
+# Changes in 2023-03-09T03:09:00+00:00
+
+
+# Changes in 2023-03-08T03:07:00+00:00
+
+- Apache-1.0 -> ImageMagick: newly added with "Yes"
+- LGPL-2.1-or-later -> OLDAP-2.8: newly added with "Unknown"
+- CC0-1.0 -> ImageMagick: newly added with "Yes"
+- BSD-1-Clause -> OLDAP-2.8: newly added with "Yes"
+- Unicode-DFS-2016 -> ImageMagick: newly added with "Yes"
+- LGPL-3.0-only -> ECL-2.0: newly added with "Unknown"
+- LGPL-2.1-or-later -> ImageMagick: newly added with "Unknown"
+- MS-PL -> ECL-2.0: newly added with "Unknown"
+- GPL-3.0-or-later -> ImageMagick: newly added with "Unknown"
+- ISC -> ImageMagick: newly added with "Yes"
+- MPL-1.1 -> ImageMagick: newly added with "Unknown"
+- Qhull -> ImageMagick: newly added with "Yes"
+- CC0-1.0 -> OLDAP-2.8: newly added with "Yes"
+- bzip2-1.0.5 -> OLDAP-2.8: newly added with "Yes"
+- Libpng -> ImageMagick: newly added with "Yes"
+- Artistic-2.0 -> ECL-2.0: newly added with "Yes"
+- MPL-2.0-no-copyleft-exception -> ECL-2.0: newly added with "Unknown"
+- PHP-3.01 -> ECL-2.0: newly added with "Yes"
+- BSD-Source-Code -> ECL-2.0: newly added with "Yes"
+- BSD-4-Clause -> ECL-2.0: newly added with "Yes"
+- MIT -> ImageMagick: newly added with "Yes"
+- NBPL-1.0 -> ECL-2.0: newly added with "Yes"
+- PostgreSQL -> ECL-2.0: newly added with "Yes"
+- RSA-MD -> OLDAP-2.8: newly added with "Yes"
+- XFree86-1.1 -> OLDAP-2.8: newly added with "Yes"
+- GPL-3.0-or-later -> OLDAP-2.8: newly added with "Unknown"
+- WTFPL -> ECL-2.0: newly added with "Yes"
+- UPL-1.0 -> OLDAP-2.8: newly added with "Yes"
+- SunPro -> ImageMagick: newly added with "Yes"
+- GPL-2.0-only -> WITH: newly added with "Unknown"
+- IJG -> ECL-2.0: newly added with "Yes"
+- HPND -> ECL-2.0: newly added with "Yes"
+- AFL-2.0 -> ECL-2.0: newly added with "Yes"
+- Apache-1.0 -> OLDAP-2.8: newly added with "Yes"
+- BSL-1.0 -> ImageMagick: newly added with "Yes"
+- bzip2-1.0.5 -> ImageMagick: newly added with "Yes"
+- Unicode-DFS-2015 -> ImageMagick: newly added with "Yes"
+- Sleepycat -> ImageMagick: newly added with "Unknown"
+- Zlib -> OLDAP-2.8: newly added with "Yes"
+- blessing -> ImageMagick: newly added with "Yes"
+- FSFULLR -> ImageMagick: newly added with "Yes"
+- Python-2.0 -> OLDAP-2.8: newly added with "Yes"
+- Sleepycat -> OLDAP-2.8: newly added with "Unknown"
+- EFL-2.0 -> ECL-2.0: newly added with "Yes"
+- X11 -> ECL-2.0: newly added with "Yes"
+- W3C-19980720 -> OLDAP-2.8: newly added with "Yes"
+- LGPL-3.0-only -> ImageMagick: newly added with "Unknown"
+- BSD-Source-Code -> OLDAP-2.8: newly added with "Yes"
+- NTP -> ECL-2.0: newly added with "Yes"
+- ZPL-2.0 -> ECL-2.0: newly added with "Yes"
+- CDDL-1.1 -> OLDAP-2.8: newly added with "Unknown"
+- GPL-1.0-or-later -> ImageMagick: newly added with "Unknown"
+- AFL-2.0 -> OLDAP-2.8: newly added with "Yes"
+- bzip2-1.0.6 -> ECL-2.0: newly added with "Yes"
+- GPL-3.0-or-later -> ECL-2.0: newly added with "Unknown"
+- FSFAP -> ECL-2.0: newly added with "Yes"
+- Python-2.0 -> ImageMagick: newly added with "Yes"
+- AGPL-3.0-only -> ECL-2.0: newly added with "Unknown"
+- curl -> OLDAP-2.8: newly added with "Yes"
+- CDDL-1.1 -> ECL-2.0: newly added with "Unknown"
+- Info-ZIP -> ImageMagick: newly added with "Yes"
+- CDDL-1.0 -> ImageMagick: newly added with "Unknown"
+- BSD-4-Clause -> OLDAP-2.8: newly added with "Yes"
+- 0BSD -> OLDAP-2.8: newly added with "Yes"
+- MPL-2.0-no-copyleft-exception -> OLDAP-2.8: newly added with "Unknown"
+- Unlicense -> ECL-2.0: newly added with "Yes"
+- Info-ZIP -> OLDAP-2.8: newly added with "Yes"
+- LGPL-3.0-or-later -> ECL-2.0: newly added with "Unknown"
+- Unicode-DFS-2015 -> OLDAP-2.8: newly added with "Yes"
+- AGPL-3.0-or-later -> OLDAP-2.8: newly added with "Unknown"
+- Unlicense -> OLDAP-2.8: newly added with "Yes"
+- MPL-2.0 -> ImageMagick: newly added with "Unknown"
+- MS-RL -> OLDAP-2.8: newly added with "Unknown"
+- bzip2-1.0.5 -> ECL-2.0: newly added with "Yes"
+- IPL-1.0 -> ECL-2.0: newly added with "Unknown"
+- zlib-acknowledgement -> ImageMagick: newly added with "Yes"
+- Apache-2.0 -> ECL-2.0: newly added with "Yes"
+- W3C-19980720 -> ImageMagick: newly added with "Yes"
+- AFL-3.0 -> ECL-2.0: newly added with "Yes"
+- Unicode-DFS-2016 -> ECL-2.0: newly added with "Yes"
+- BSD-2-Clause -> ECL-2.0: newly added with "Yes"
+- Artistic-1.0-Perl -> OLDAP-2.8: newly added with "Yes"
+- Artistic-2.0 -> OLDAP-2.8: newly added with "Yes"
+- EUPL-1.2 -> ImageMagick: newly added with "Unknown"
+- IBM-pibs -> ImageMagick: newly added with "Yes"
+- LGPL-3.0-or-later -> ImageMagick: newly added with "Unknown"
+- EPL-1.0 -> ImageMagick: newly added with "Unknown"
+- NTP -> OLDAP-2.8: newly added with "Yes"
+- PHP-3.01 -> OLDAP-2.8: newly added with "Yes"
+- FSFAP -> ImageMagick: newly added with "Yes"
+- XFree86-1.1 -> ECL-2.0: newly added with "Yes"
+- EUPL-1.1 -> ECL-2.0: newly added with "Unknown"
+- OpenSSL -> ECL-2.0: newly added with "Unknown"
+- MPL-1.1 -> ECL-2.0: newly added with "Unknown"
+- EPL-2.0 -> ECL-2.0: newly added with "Unknown"
+- GPL-2.0-or-later -> ECL-2.0: newly added with "Unknown"
+- GPL-2.0-only -> OLDAP-2.8: newly added with "Unknown"
+- Sleepycat -> ECL-2.0: newly added with "Unknown"
+- AFL-2.0 -> ImageMagick: newly added with "Yes"
+- BSD-2-Clause-Patent -> OLDAP-2.8: newly added with "Yes"
+- BSD-4-Clause-UC -> OLDAP-2.8: newly added with "Yes"
+- FTL -> ImageMagick: newly added with "Yes"
+- LGPL-3.0-only -> OLDAP-2.8: newly added with "Unknown"
+- AFL-2.1 -> ImageMagick: newly added with "Yes"
+- 0BSD -> ECL-2.0: newly added with "Yes"
+- Apache-1.1 -> OLDAP-2.8: newly added with "Yes"
+- WTFPL -> ImageMagick: newly added with "Yes"
+- OSL-3.0 -> ECL-2.0: newly added with "Unknown"
+- MIT-CMU -> OLDAP-2.8: newly added with "Yes"
+- Zlib -> ImageMagick: newly added with "Yes"
+- blessing -> OLDAP-2.8: newly added with "Yes"
+- LGPL-2.1-only -> OLDAP-2.8: newly added with "Unknown"
+- curl -> ECL-2.0: newly added with "Yes"
+- Unicode-DFS-2016 -> OLDAP-2.8: newly added with "Yes"
+- EFL-2.0 -> OLDAP-2.8: newly added with "Yes"
+- AFL-2.1 -> OLDAP-2.8: newly added with "Yes"
+- BSD-3-Clause -> OLDAP-2.8: newly added with "Yes"
+- FTL -> ECL-2.0: newly added with "Yes"
+- GPL-3.0-only -> ECL-2.0: newly added with "Unknown"
+- IPL-1.0 -> ImageMagick: newly added with "Unknown"
+- MS-PL -> ImageMagick: newly added with "Unknown"
+- Qhull -> OLDAP-2.8: newly added with "Yes"
+- X11 -> ImageMagick: newly added with "Yes"
+- ZPL-2.0 -> OLDAP-2.8: newly added with "Yes"
+- zlib-acknowledgement -> OLDAP-2.8: newly added with "Yes"
+- MPL-2.0-no-copyleft-exception -> ImageMagick: newly added with "Unknown"
+- GPL-1.0-only -> ImageMagick: newly added with "Unknown"
+- CDDL-1.1 -> ImageMagick: newly added with "Unknown"
+- WTFPL -> OLDAP-2.8: newly added with "Yes"
+- PHP-3.01 -> ImageMagick: newly added with "Yes"
+- AGPL-3.0-or-later -> ECL-2.0: newly added with "Unknown"
+- GPL-2.0-only -> ECL-2.0: newly added with "Unknown"
+- libtiff -> ImageMagick: newly added with "Yes"
+- EPL-2.0 -> OLDAP-2.8: newly added with "Unknown"
+- MIT-CMU -> ImageMagick: newly added with "Yes"
+- OSL-3.0 -> OLDAP-2.8: newly added with "Unknown"
+- Libpng -> OLDAP-2.8: newly added with "Yes"
+- LGPL-3.0-or-later -> OLDAP-2.8: newly added with "Unknown"
+- NBPL-1.0 -> ImageMagick: newly added with "Yes"
+- MirOS -> ECL-2.0: newly added with "Yes"
+- PostgreSQL -> ImageMagick: newly added with "Yes"
+- W3C-20150513 -> ECL-2.0: newly added with "Yes"
+- zlib-acknowledgement -> ECL-2.0: newly added with "Yes"
+- RSA-MD -> ECL-2.0: newly added with "Yes"
+- OpenSSL -> OLDAP-2.8: newly added with "Unknown"
+- BSD-1-Clause -> ImageMagick: newly added with "Yes"
+- NBPL-1.0 -> OLDAP-2.8: newly added with "Yes"
+- RSA-MD -> ImageMagick: newly added with "Yes"
+- 0BSD -> ImageMagick: newly added with "Yes"
+- MS-PL -> OLDAP-2.8: newly added with "Unknown"
+- Artistic-2.0 -> ImageMagick: newly added with "Yes"
+- BSD-2-Clause-Patent -> ECL-2.0: newly added with "Yes"
+- IJG -> ImageMagick: newly added with "Yes"
+- CDDL-1.0 -> ECL-2.0: newly added with "Unknown"
+- BSD-2-Clause-Patent -> ImageMagick: newly added with "Yes"
+- BSD-2-Clause -> OLDAP-2.8: newly added with "Yes"
+- GPL-1.0-only -> OLDAP-2.8: newly added with "Unknown"
+- BSD-3-Clause -> ImageMagick: newly added with "Yes"
+- BSL-1.0 -> OLDAP-2.8: newly added with "Yes"
+- ZPL-2.0 -> ImageMagick: newly added with "Yes"
+- EUPL-1.1 -> ImageMagick: newly added with "Unknown"
+- MIT-CMU -> ECL-2.0: newly added with "Yes"
+- OSL-3.0 -> ImageMagick: newly added with "Unknown"
+- NTP -> ImageMagick: newly added with "Yes"
+- ISC -> ECL-2.0: newly added with "Yes"
+- Artistic-1.0-Perl -> ImageMagick: newly added with "Yes"
+- Qhull -> ECL-2.0: newly added with "Yes"
+- ISC -> OLDAP-2.8: newly added with "Yes"
+- HPND -> OLDAP-2.8: newly added with "Yes"
+- MS-RL -> ImageMagick: newly added with "Unknown"
+- Artistic-1.0 -> OLDAP-2.8: newly added with "Yes"
+- CPL-1.0 -> OLDAP-2.8: newly added with "Unknown"
+- MIT -> OLDAP-2.8: newly added with "Yes"
+- IJG -> OLDAP-2.8: newly added with "Yes"
+- Artistic-1.0-Perl -> ECL-2.0: newly added with "Yes"
+- GPL-2.0-or-later -> ImageMagick: newly added with "Unknown"
+- EPL-2.0 -> ImageMagick: newly added with "Unknown"
+- Python-2.0 -> ECL-2.0: newly added with "Yes"
+- CPL-1.0 -> ECL-2.0: newly added with "Unknown"
+- W3C -> ECL-2.0: newly added with "Yes"
+- bzip2-1.0.6 -> ImageMagick: newly added with "Yes"
+- curl -> ImageMagick: newly added with "Yes"
+- Libpng -> ECL-2.0: newly added with "Yes"
+- MirOS -> OLDAP-2.8: newly added with "Yes"
+- EUPL-1.1 -> OLDAP-2.8: newly added with "Unknown"
+- GPL-1.0-or-later -> ECL-2.0: newly added with "Unknown"
+- CPL-1.0 -> ImageMagick: newly added with "Unknown"
+- LGPL-2.1-only -> ECL-2.0: newly added with "Unknown"
+- AFL-2.1 -> ECL-2.0: newly added with "Yes"
+- CC0-1.0 -> ECL-2.0: newly added with "Yes"
+- BSD-Source-Code -> ImageMagick: newly added with "Yes"
+- FTL -> OLDAP-2.8: newly added with "Yes"
+- IPL-1.0 -> OLDAP-2.8: newly added with "Unknown"
+- LGPL-2.1-only -> ImageMagick: newly added with "Unknown"
+- MPL-1.1 -> OLDAP-2.8: newly added with "Unknown"
+- MIT -> ECL-2.0: newly added with "Yes"
+- SunPro -> OLDAP-2.8: newly added with "Yes"
+- W3C -> ImageMagick: newly added with "Yes"
+- libtiff -> ECL-2.0: newly added with "Yes"
+- FSFAP -> OLDAP-2.8: newly added with "Yes"
+- MPL-2.0 -> ECL-2.0: newly added with "Unknown"
+- BSD-4-Clause -> ImageMagick: newly added with "Yes"
+- MPL-2.0 -> OLDAP-2.8: newly added with "Unknown"
+- BSD-4-Clause-UC -> ImageMagick: newly added with "Yes"
+- AFL-3.0 -> ImageMagick: newly added with "Yes"
+- EFL-2.0 -> ImageMagick: newly added with "Yes"
+- ICU -> OLDAP-2.8: newly added with "Yes"
+- bzip2-1.0.6 -> OLDAP-2.8: newly added with "Yes"
+- BSD-2-Clause -> ImageMagick: newly added with "Yes"
+- UPL-1.0 -> ECL-2.0: newly added with "Yes"
+- EPL-1.0 -> ECL-2.0: newly added with "Unknown"
+- HPND -> ImageMagick: newly added with "Yes"
+- BSD-3-Clause -> ECL-2.0: newly added with "Yes"
+- Zlib -> ECL-2.0: newly added with "Yes"
+- EPL-1.0 -> OLDAP-2.8: newly added with "Unknown"
+- EUPL-1.2 -> ECL-2.0: newly added with "Unknown"
+- W3C-20150513 -> ImageMagick: newly added with "Yes"
+- EUPL-1.2 -> OLDAP-2.8: newly added with "Unknown"
+- AGPL-3.0-only -> ImageMagick: newly added with "Unknown"
+- BSD-1-Clause -> ECL-2.0: newly added with "Yes"
+- Unlicense -> ImageMagick: newly added with "Yes"
+- ICU -> ECL-2.0: newly added with "Yes"
+- MS-RL -> ECL-2.0: newly added with "Unknown"
+- BSL-1.0 -> ECL-2.0: newly added with "Yes"
+- GPL-1.0-only -> ECL-2.0: newly added with "Unknown"
+- Artistic-1.0 -> ECL-2.0: newly added with "Yes"
+- GPL-3.0-only -> OLDAP-2.8: newly added with "Unknown"
+- AGPL-3.0-or-later -> ImageMagick: newly added with "Unknown"
+- Apache-1.1 -> ImageMagick: newly added with "Yes"
+- ICU -> ImageMagick: newly added with "Yes"
+- GPL-3.0-only -> ImageMagick: newly added with "Unknown"
+- GPL-2.0-or-later -> OLDAP-2.8: newly added with "Unknown"
+- IBM-pibs -> ECL-2.0: newly added with "Yes"
+- libtiff -> OLDAP-2.8: newly added with "Yes"
+- PostgreSQL -> OLDAP-2.8: newly added with "Yes"
+- GPL-1.0-or-later -> OLDAP-2.8: newly added with "Unknown"
+- IBM-pibs -> OLDAP-2.8: newly added with "Yes"
+- Info-ZIP -> ECL-2.0: newly added with "Yes"
+- OpenSSL -> ImageMagick: newly added with "Unknown"
+- Apache-2.0 -> ImageMagick: newly added with "Yes"
+- Apache-2.0 -> OLDAP-2.8: newly added with "Yes"
+- XFree86-1.1 -> ImageMagick: newly added with "Yes"
+- UPL-1.0 -> ImageMagick: newly added with "Yes"
+- FSFULLR -> ECL-2.0: newly added with "Yes"
+- Artistic-1.0 -> ImageMagick: newly added with "Yes"
+- FSFULLR -> OLDAP-2.8: newly added with "Yes"
+- W3C-20150513 -> OLDAP-2.8: newly added with "Yes"
+- SunPro -> ECL-2.0: newly added with "Yes"
+- Apache-1.0 -> ECL-2.0: newly added with "Yes"
+- Unicode-DFS-2015 -> ECL-2.0: newly added with "Yes"
+- W3C-19980720 -> ECL-2.0: newly added with "Yes"
+- CDDL-1.0 -> OLDAP-2.8: newly added with "Unknown"
+- AGPL-3.0-only -> OLDAP-2.8: newly added with "Unknown"
+- Apache-1.1 -> ECL-2.0: newly added with "Yes"
+- BSD-4-Clause-UC -> ECL-2.0: newly added with "Yes"
+- W3C -> OLDAP-2.8: newly added with "Yes"
+- X11 -> OLDAP-2.8: newly added with "Yes"
+- MirOS -> ImageMagick: newly added with "Yes"
+- GPL-2.0-only -> ImageMagick: newly added with "Unknown"
+- blessing -> ECL-2.0: newly added with "Yes"
+- AFL-3.0 -> OLDAP-2.8: newly added with "Yes"
+- LGPL-2.1-or-later -> ECL-2.0: newly added with "Unknown"
+
+# Changes in 2023-03-07T03:07:00+00:00
+
+
+# Changes in 2023-03-06T03:05:00+00:00
+
+
+# Changes in 2023-03-03T03:09:00+00:00
+
+
+# Changes in 2023-03-02T03:07:00+00:00
+
+
+# Changes in 2023-02-28T03:07:00+00:00
+
+
+# Changes in 2023-02-27T03:05:00+00:00
+
+
+# Changes in 2023-02-24T03:09:00+00:00
+
+
+# Changes in 2023-02-22T03:07:00+00:00
+
+
+# Changes in 2023-02-21T03:07:00+00:00
+
+
+# Changes in 2023-02-15T03:09:00+00:00
+
+
+# Changes in 2023-02-14T03:08:00+00:00
+
+
+# Changes in 2023-02-10T03:09:00+00:00
+
+
+# Changes in 2023-02-09T17:06:00+00:00
+
+
+# Changes in 2023-01-09T15:58:00+00:00
+
+- CPL-1.0 -> EPL-1.0: changed from "Yes" to "No"
+- EPL-2.0 -> CPL-1.0: changed from "No" to "Yes"
+
 # Changes in 2023-01-09T15:58:00+00:00
 
 
