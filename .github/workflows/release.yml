@@ -1,16 +1,11 @@
-name: 'push and release master'
+name: 'manual release'
 
 on:
-  push:
-    branches:
-      - master
   workflow_dispatch:
-  repository_dispatch:
-    types: cron_release
 
 jobs:
   build:
-    name: 'push and release'
+    name: 'prelease'
 
     runs-on: ubuntu-latest
 
@@ -19,19 +14,6 @@ jobs:
       uses: actions/checkout@master
       with:
         ref: master
-    - uses: dorny/paths-filter@v3.0.2
-      id: code-changes
-      with:
-        filters: |
-          code_changes:
-            - 'osadl_matrix/**/*'
-            - 'osadl_matrix/*'
-            - 'LICENSE*'
-            - 'README.md'
-            - 'requirements.txt'
-            - 'MANIFEST.in'
-            - 'setup.py'
-            - 'VERSION'
     - name: install dependencies
       run: |
         python3 -m pip install --upgrade pip build
@@ -49,12 +31,10 @@ jobs:
         pytest
       shell: bash
     - name: bump version
-      if: steps.code-changes.outputs.code_changes == 'true' || github.event_name == 'workflow_dispatch'
       run: |
         date --utc '+%Y.%m.%d.%H%m%S' | tr -d '\n' > VERSION
       shell: bash
     - name: push
-      if: steps.code-changes.outputs.code_changes == 'true' || github.event_name == 'workflow_dispatch'
       uses: github-actions-x/commit@v2.9
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -65,7 +45,6 @@ jobs:
         email: ${{ secrets.COMMITER_MAIL }}
         rebase: 'true'
     - name: tag version
-      if: steps.code-changes.outputs.code_changes == 'true' || github.event_name == 'workflow_dispatch'
       uses: butlerlogic/action-autotag@1.1.2
       with:
         GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
@@ -73,11 +52,9 @@ jobs:
         root: "VERSION"
         regex_pattern: '(.*)'
     - name: create release
-      if: steps.code-changes.outputs.code_changes == 'true' || github.event_name == 'workflow_dispatch'
       run: python3 -m build --sdist --wheel
       shell: bash        
     - name: publish package
-      if: steps.code-changes.outputs.code_changes == 'true' || github.event_name == 'workflow_dispatch'
       uses: pypa/gh-action-pypi-publish@release/v1
       with:
         user: __token__

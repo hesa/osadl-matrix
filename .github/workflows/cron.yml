@@ -34,12 +34,12 @@ jobs:
     - name: install dependencies
       if: steps.new-commits.outputs.NEW_COMMITS == '1'
       run: |
-        python3 -m pip install --upgrade pip
+        python3 -m pip install --upgrade pip build
         pip3 install -r requirements.txt
       shell: bash
     - name: build
       if: steps.new-commits.outputs.NEW_COMMITS == '1'
-      run: python3 setup.py build
+      run: python3 -m build --sdist --wheel
       shell: bash
     - name: install more dependencies
       if: steps.new-commits.outputs.NEW_COMMITS == '1'
@@ -56,6 +56,14 @@ jobs:
       run: |
         python3 scripts/datalog osadl-matrix.json.bak osadl_matrix/osadl-matrix.json DATALOG.md
       shell: bash
+    - name: check for release relevant changes
+      id: new-release
+      run: |
+        if [ -n "$(git status --porcelain | grep DATALOG.md )" ]; then
+          echo "NEW_RELEASE=1" >> $GITHUB_OUTPUT
+        else
+          echo "NEW_RELEASE=0" >> $GITHUB_OUTPUT
+        fi
     - name: push
       if: steps.new-commits.outputs.NEW_COMMITS == '1'
       uses: github-actions-x/commit@v2.9
@@ -68,7 +76,7 @@ jobs:
         email: ${{ secrets.COMMITER_MAIL }}
         rebase: 'true'
     - name: Repository Dispatch
-      if: steps.new-commits.outputs.NEW_COMMITS == '1'
-      uses: peter-evans/repository-dispatch@v2
+      if: steps.new-release.outputs.NEW_RELEASE == '1'
+      uses: peter-evans/repository-dispatch@v3
       with:
         event-type: cron_release
